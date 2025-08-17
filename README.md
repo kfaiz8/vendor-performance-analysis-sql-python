@@ -13,10 +13,9 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 - <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
-- <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#author--contact">Author & Contact</a>
+
 
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
@@ -45,7 +44,6 @@ Effective inventory and sales management are critical in the retail sector. This
 
 - SQL (Common Table Expressions, Joins, Filtering)
 - Python (Pandas, Matplotlib, Seaborn, SciPy)
-- Power BI (Interactive Visualizations)
 - GitHub
 
 ---
@@ -67,8 +65,6 @@ vendor-performance-analysis/
 │   ├── ingestion_db.py
 │   └── get_vendor_summary.py
 │
-├── dashboard/                  # Power BI dashboard file
-│   └── vendor_performance_dashboard.pbix
 ```
 
 ---
@@ -110,7 +106,7 @@ vendor-performance-analysis/
    - Low Vendors: Mean Margin = 41.55%
 6. **Hypothesis Testing**: Statistically significant difference in profit margins → distinct vendor strategies
 
-
+---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 1. Clone the repository:
@@ -143,4 +139,4 @@ python scripts/get_vendor_summary.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Khan Faizuddin** 
+
