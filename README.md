@@ -110,18 +110,7 @@ vendor-performance-analysis/
    - Low Vendors: Mean Margin = 41.55%
 6. **Hypothesis Testing**: Statistically significant difference in profit margins → distinct vendor strategies
 
----
-<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-- Power BI Dashboard shows:
-  - Vendor-wise Sales and Margins
-  - Inventory Turnover
-  - Bulk Purchase Savings
-  - Performance Heatmaps
-
-![Vendor Performance Dashboard](images/dashboard.png)
-
----
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 1. Clone the repository:
